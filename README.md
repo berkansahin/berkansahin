@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @berkansahin
 - 👀 I’m interested in woodcarving, drones, 
-- 🌱 I’m currently learning nodejs,golang
+- 🌱 I’m currently learning python,golang
 - 📫 How to reach me brkn.sahin@gmail.com
